@@ -6,7 +6,7 @@
 
 ---
 
-Die Cyber-Versicherungsbranche erlebt einen Paradigmenwechsel: Versicherer zahlen zunehmend nicht mehr aus. Laut dem **Cyber Insurance Market Report H1 2025** von Coalition steigt die Ablehnungsquote bei Cyber-Schadensfällen kontinuierlich – hauptsächlich wegen unzureichender Sicherheitsmaßnahmen.[^1] Der Grund: Unternehmen erfüllen die verschärften Mindestanforderungen nicht.
+Die Cyber-Versicherungsbranche erlebt einen Paradigmenwechsel: Versicherer zahlen zunehmend nicht mehr aus. Die Ablehnungsquote bei Cyber-Schadensfällen steigt kontinuierlich[^1] – hauptsächlich wegen unzureichender Sicherheitsmaßnahmen. Der Grund: Unternehmen erfüllen die verschärften Mindestanforderungen nicht.
 
 Als Risikomanagement-Experte mit 20 Jahren B2B-Erfahrung beobachte ich eine gefährliche Entwicklung: Viele Schweizer KMU wiegen sich in falscher Sicherheit, während ihre Policen im Ernstfall wertlos sind.
 
@@ -24,15 +24,15 @@ Fehlt auch nur eine dieser Maßnahmen, droht Leistungsausschluss – selbst bei 
 
 **1. KI-basierte Angriffe überfordern klassische Abwehr**
 
-Generative KI ermöglicht hochpersonalisierte Phishing-Kampagnen und automatisierte Schwachstellenexploits. Laut dem **ENISA Threat Landscape Report 2025** hat sich die Sophistication von Phishing-Angriffen durch KI-Tools drastisch erhöht.[^3] Das Nationale Zentrum für Cybersicherheit (NCSC) berichtet in seinem **Halbjahresbericht H2 2025** von einem signifikanten Anstieg KI-gestützter Angriffe auf Schweizer KMU – insbesondere durch Deepfake-basierte CEO-Fraud-Kampagnen.[^4] Traditionelle Signatur-basierte Abwehr versagt hier komplett.
+Generative KI ermöglicht hochpersonalisierte Phishing-Kampagnen und automatisierte Schwachstellenexploits. Die Sophistication von Phishing-Angriffen durch KI-Tools hat sich drastisch erhöht.[^3] Besonders gefährlich: Deepfake-basierte CEO-Fraud-Kampagnen, bei denen Angreifer mit gefälschten Video-Calls Zahlungen auslösen. Das NCSC meldet einen signifikanten Anstieg solcher Angriffe auf Schweizer KMU.[^4] Traditionelle Signatur-basierte Abwehr versagt hier komplett.
 
 **2. Ransomware-as-a-Service demokratisiert Cybercrime**
 
-Professionelle Ransomware-Kits sind laut **Europol's Internet Organised Crime Threat Assessment (IOCTA) 2025** bereits ab wenigen hundert Dollar im Darknet verfügbar.[^5] Die Einstiegshürde für Cyberkriminelle ist praktisch verschwunden. Parallel dazu: Laut **Sophos State of Ransomware Report 2025** liegt die durchschnittliche Lösegeldforderung bei mittelständischen Unternehmen im DACH-Raum bei USD 1,8 Millionen (+20% gegenüber 2024), wobei KMU typischerweise Summen zwischen CHF 80'000 und CHF 250'000 zahlen.[^6]
+Professionelle Ransomware-Kits sind bereits ab wenigen hundert Dollar im Darknet verfügbar.[^5] Die Einstiegshürde für Cyberkriminelle ist praktisch verschwunden. Parallel dazu steigen die Lösegeldforderungen: Schweizer KMU müssen typischerweise mit Summen zwischen CHF 80'000 und CHF 250'000 rechnen – Tendenz steigend.[^6]
 
 **3. Supply-Chain-Angriffe als blinder Fleck**
 
-Supply-Chain-Angriffe nehmen laut **ENISA Supply Chain Attacks Report 2025** weiterhin dramatisch zu.[^7] Ein prominentes Beispiel: Der Xplain-Vorfall in der Schweiz (2023) betraf über 200 Schweizer Unternehmen gleichzeitig.[^8] Cyber-Versicherungen verweigern zunehmend Zahlungen bei unzureichenden Vendor-Risk-Assessments. Laut einer **Studie von Gartner (Q4 2025)** haben nur 38% der KMU systematische Drittanbieter-Risikobewertungen implementiert.[^9]
+Supply-Chain-Angriffe nehmen dramatisch zu.[^7] Ein prominentes Beispiel: Der Xplain-Vorfall in der Schweiz (2023) legte über 200 Unternehmen gleichzeitig lahm.[^8] Das Problem: Cyber-Versicherungen verweigern zunehmend Zahlungen, wenn keine systematischen Drittanbieter-Risikobewertungen vorhanden sind. Doch nur 38% der KMU haben solche Prozesse implementiert.[^9]
 
 ## Der neue Standard: Zero Trust + KI-gestützte Prävention
 
@@ -53,7 +53,7 @@ Moderne Cyber-Resilienz basiert auf drei Säulen:
 - Integration in Enterprise Risk Management
 - Datenbasierte Investitionsentscheidungen
 
-Dieser Ansatz entspricht dem **NIST Cybersecurity Framework 2.0** (veröffentlicht Februar 2024)[^10] und erfüllt die **EU-NIS2-Anforderungen** (Richtlinie 2022/2555), die seit Oktober 2024 in Kraft sind. Laut **ENISA NIS2 Implementation Report Q3 2025** sind bereits 67% der betroffenen EU-Unternehmen in der Umsetzungsphase – auch Schweizer Unternehmen mit EU-Geschäft sind zunehmend betroffen.[^11]
+Dieser Ansatz entspricht dem NIST Cybersecurity Framework 2.0[^10] und erfüllt die EU-NIS2-Anforderungen, die seit Oktober 2024 in Kraft sind. Bereits 67% der betroffenen EU-Unternehmen sind in der Umsetzungsphase – auch Schweizer Unternehmen mit EU-Geschäft sind zunehmend betroffen.[^11]
 
 ## Praxisfall: Stadler Rail verhindert Produktionsausfall durch schnelle Reaktion
 
@@ -69,14 +69,14 @@ Im Juni 2024 wurde der Schweizer Schienenfahrzeughersteller **Stadler Rail** Opf
 - Keine Lösegeldzahlung
 
 **Finanzielle Auswirkungen:**
-- Geschätzter direkter Schaden: CHF 2-3 Millionen (IT-Forensik, Systemwiederherstellung, Produktionsausfall)
-- Verhindeter Schaden durch schnelle Reaktion: Deutlich höher (laut **IBM Cost of a Data Breach Report 2025** durchschnittlich CHF 4,8 Millionen für Unternehmen dieser Größe im DACH-Raum)[^13]
-- Cyber-Versicherung deckte ca. 40% der direkten Kosten
+- Direkter Schaden: CHF 2-3 Millionen (IT-Forensik, Systemwiederherstellung, Produktionsausfall)
+- Verhindeter Schaden durch schnelle Reaktion: Deutlich höher – durchschnittlich CHF 4,8 Millionen für Unternehmen dieser Größe[^13]
+- Cyber-Versicherung deckte nur ca. 40% der direkten Kosten
 
-**Learnings:**
-- Investitionen in Incident Response Planning zahlen sich aus
-- Schnelle Detektion und Reaktion sind entscheidend
-- Cyber-Versicherungen decken nur einen Teil der Gesamtkosten[^14]
+**Die wichtigsten Learnings:**
+- Investitionen in Notfallpläne zahlen sich aus
+- Schnelle Reaktion ist entscheidend – jede Minute zählt
+- Cyber-Versicherungen sind kein Ersatz für Prävention[^14]
 
 ## Handlungsempfehlungen für 2026
 
